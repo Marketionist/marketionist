@@ -20,4 +20,4 @@ Here's what I'm up to:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marketionist&layout=compact&hide=html" alt="marketionist programming languages" width="48%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marketionist&show_icons=true&count_private=true" alt="marketionist GitHub stats" width="48%"/></p>
 
-<p><img align="center" src="https://komarev.com/ghpvc/?username=marketionist" alt="marketionist profile views" /></p>
+<p align="center"><a href="https://www.linkedin.com/in/dshpakovskyi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/></a>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=marketionist" alt="marketionist profile views" /></p>
