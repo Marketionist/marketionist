@@ -18,8 +18,6 @@ Here's what I'm up to:
     <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marketionist&layout=compact&hide=html" alt="marketionist programming languages" width="49%"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marketionist&show_icons=true&count_private=true" alt="marketionist GitHub stats" width="49%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marketionist&layout=compact&hide=html" alt="marketionist programming languages" width="48%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marketionist&show_icons=true&count_private=true" alt="marketionist GitHub stats" width="48%"/></p>
 
 <p><img align="center" src="https://komarev.com/ghpvc/?username=marketionist" alt="marketionist profile views" /></p>
