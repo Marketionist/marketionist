@@ -1,0 +1,28 @@
+{
+  "name": "marketionist",
+  "version": "1.0.0",
+  "description": "Marketionist GitHub profile page",
+  "main": "README.md",
+  "engines": {
+    "node": ">=8.x.x"
+  },
+  "scripts": {
+    "lint": "node ./node_modules/.bin/eslint tests/**/*.js",
+    "test": "node ./tests/links.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marketionist/marketionist"
+  },
+  "keywords": [
+    "marketionist",
+    "marketionist profile",
+    "marketionist profile page"
+  ],
+  "author": "Dmytro Shpakovskyi",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "img-link-checker": "^1.0.4"
+  }
+}
