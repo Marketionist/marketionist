@@ -2,8 +2,8 @@
 
 Here's what I'm up to:
 
-- 🔭 Currently working on [testing starter kit](https://github.com/Marketionist/testing-starter-kit)
 - ⚡ You can find my short bio on [marketionist.github.io](https://marketionist.github.io/)
+- 🔭 Currently working on a worldwide list of [QA testing conferences](https://github.com/Marketionist/qa-testing-conferences)
 - 🦾 I’m constantly curious about medical, biotech and healthcare projects and discussions
 - ✨ Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="20" height="20"></a>
 <!-- - 💬 Ask me about ...
