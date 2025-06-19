@@ -1,15 +1,30 @@
-# Hi there 👋
+# Hi there 👋, I'm Dmytro
+
+Accomplished Test Automation Tech Lead, Open Source Enthusiast, Speaker and
+Book Author with over a decade of international work experience. Always open
+to discussions and opportunities.
 
 Here's what I'm up to:
 
-- ⚡ You can find my short bio on [marketionist.github.io](https://marketionist.github.io/)
-- 🔭 Currently working on a worldwide list of [QA testing conferences](https://github.com/Marketionist/qa-testing-conferences)
-- 🦾 I’m constantly curious about medical, biotech and healthcare projects and discussions
-- ✨ Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="20" height="20"></a>
+- 📜 You can find my short bio on [marketionist.github.io](https://marketionist.github.io/)
+- ⚡ Currently working on a worldwide list of [QA testing conferences](https://github.com/Marketionist/qa-testing-conferences)
+- 🔭 I'm constantly curious about medical, biotech and healthcare projects
+- 📫 Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="20" height="20"></a>
 <!-- - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - ✨ ... -->
+
+### 💼 Domain Expertise
+- 🧬 Healthcare
+- 🖥️ Telecommunications
+- 📰 Adtech
+- 📊 Surveys
+- ✨ Online Marketing
+
+### 🦾 Technical Skills
+- **Frameworks**: Playwright, TestCafe, Puppeteer, WebdriverIO, Protractor, Selenium WebDriver, Cucumber, Jasmine, Jest
+- **Languages**: JavaScript, TypeScript, Python
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="28" height="28">
