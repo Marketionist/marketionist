@@ -9,7 +9,7 @@ Here's what I'm up to:
 - 📜 You can find my short bio on [marketionist.github.io](https://marketionist.github.io/)
 - ⚡ Currently working on a worldwide list of [QA testing conferences](https://github.com/Marketionist/qa-testing-conferences)
 - 🔭 I'm constantly curious about medical, biotech and healthcare projects
-- 📫 Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="20" height="20"></a>
+- 📫 Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="28" height="28"></a>
 <!-- - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
@@ -44,5 +44,5 @@ Here's what I'm up to:
 </p>
 
 <h2 align="center">
-    Show some 🤝 by starring some of the repositories!
+    Show some <img src="https://media.giphy.com/media/2cwPS1zA560EMhufr7/giphy.gif" width="50px"> by starring some of the repositories!
 </h2>
