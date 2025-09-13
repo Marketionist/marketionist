@@ -17,8 +17,7 @@ Here's what I'm up to:
 
 ### 💼 Domain Expertise
 - 🧬 Healthcare
-- 🖥️ Telecommunications
-- 📰 Adtech
+- 💡 Adtech
 - 📊 Surveys
 - ✨ Online Marketing
 
