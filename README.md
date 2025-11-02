@@ -1,14 +1,16 @@
 # Hi there 👋, I'm Dmytro
 
-Accomplished Test Automation Tech Lead, Open Source Enthusiast, Speaker and
-Book Author with over a decade of international work experience. Always open
-to discussions and opportunities.
+Senior QA Automation Engineer / SDET Architect, Open Source Enthusiast,
+Speaker and Book Author known for elevating a quality-first Engineering culture
+by creating test infrastructure along with reliable and maintainable automated
+tests. Always open to discussions and opportunities.
 
 Here's what I'm up to:
 
 - 📜 You can find my short bio on [marketionist.github.io](https://marketionist.github.io/)
 - ⚡ Currently working on a worldwide list of [QA testing conferences](https://github.com/Marketionist/qa-testing-conferences)
-- 🔭 I'm constantly curious about medical, biotech and healthcare projects
+- 🔭 I'm always curious about fulfilling and meaningful software engineering in
+Healthtech, Biotech and Fintech
 - 📫 Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="28" height="28"></a>
 <!-- - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
@@ -17,13 +19,14 @@ Here's what I'm up to:
 
 ### 💼 Domain Expertise
 - 🧬 Healthcare
-- 🎓 Edtech
+- 🎓 Edutech
 - 💡 Adtech
 - 📊 Surveys
-- ✨ Online Marketing
+- ✨ Marketing
 
 ### 🦾 Technical Skills
-- **Frameworks**: Playwright, TestCafe, Puppeteer, WebdriverIO, Protractor, Selenium WebDriver, Cucumber, Jasmine, Jest
+- **Frameworks**: Playwright, TestCafe, Puppeteer, WebdriverIO, Protractor,
+Selenium WebDriver, Cucumber, Jasmine, Jest
 - **Languages**: JavaScript, TypeScript, Python
 
 <p align="center">
