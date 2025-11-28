@@ -21,8 +21,8 @@ Healthtech, Biotech, Fintech and Adtech
 - 🧬 Healthcare
 - 🎓 Edutech
 - 💡 Adtech
-- 📊 Surveys
 - ✨ Marketing
+- ⚙️ Manufacturing
 
 ### 🦾 Technical Skills
 - **Frameworks**: Playwright, TestCafe, Puppeteer, WebdriverIO, Protractor,
