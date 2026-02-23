@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Dmytro
 
-Senior QA Automation Engineer / SDET Architect, Open Source Enthusiast,
-Speaker and Book Author known for elevating a quality-first Engineering culture
-by creating test infrastructure along with reliable and maintainable automated
-tests. Always open to discussions and opportunities.
+Senior QA Automation Engineer / SDET Architect, Speaker and Book Author known
+for elevating a quality-first Engineering culture by creating test
+infrastructure along with reliable and maintainable automated tests. Always open
+to discussions and opportunities.
 
 Here's what I'm up to:
 
@@ -39,7 +39,7 @@ Selenium WebDriver, Cucumber, Jasmine, Jest
 </p>
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marketionist&layout=compact&hide=html" alt="marketionist programming languages" width="48%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marketionist&show_icons=true&count_private=true" alt="marketionist GitHub stats" width="49%">
+    <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marketionist&layout=compact&hide=html" alt="marketionist programming languages" width="48%">&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marketionist&show_icons=true&count_private=true" alt="marketionist GitHub stats" width="49%">
 </p>
 
 <p align="center">
