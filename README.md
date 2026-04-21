@@ -11,7 +11,7 @@ Here's what I'm up to:
 - ⚡ Currently working on a worldwide list of [QA testing conferences](https://github.com/Marketionist/qa-testing-conferences)
 - 🔭 I'm always curious about fulfilling and meaningful software engineering in
 Healthtech, Biotech, Fintech and Adtech
-- 📫 Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="28" height="28"></a>
+- 📫 Please feel free to reach out on <a href="https://www.linkedin.com/in/dshpakovskyi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" title="Linkedin" width="28"></a>
 <!-- - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
@@ -30,12 +30,12 @@ Selenium WebDriver, Cucumber, Jasmine, Jest
 - **Languages**: JavaScript, TypeScript, Python
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="28" height="28">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="28" height="28">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript" width="28" height="28">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js" width="28" height="28">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" width="28" height="28">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Bash" title="Bash" width="28" height="28">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="28">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" width="28">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript" width="28">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js" width="28">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" width="28">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Bash" title="Bash" width="28">
 </p>
 
 <p align="center">
