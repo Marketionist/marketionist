@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dmytro
 
-Senior QA Automation Engineer / SDET Architect, Speaker and Book Author known
-for elevating a quality-first Engineering culture by creating test
+Staff QA Automation Engineer / SDET Architect, Career Coach, Speaker and Book
+Author known for elevating a quality-first Engineering culture by creating test
 infrastructure along with reliable and maintainable automated tests. Always open
 to discussions and opportunities.
 
